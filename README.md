@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 Updating readme file for git pull tutorial
 
 Git pull is a conbination of git fetch and git merge
+
+Adding a new line for branch update-readme
