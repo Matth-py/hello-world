@@ -6,3 +6,5 @@ This is an example repository tutorial for the Git tutorial I'm learning on http
 This repository is built step by step in the tutorial.
 
 Updating readme file for git pull tutorial
+
+Git pull is a conbination of git fetch and git merge
